@@ -4,7 +4,7 @@ The duck DNA fingerprinting identification tool was used for efficient identific
 
 If you use the duck DNA fingerprinting identification tool in published research, please cite.
 
-Contact
+**Contact**
 
 Please submit a github issue with any questions or if you experience any issues/bugs.
 
